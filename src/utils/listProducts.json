@@ -231,13 +231,8 @@
     "categoria": "galleta"
   },
   {
-    "nombre": "Ritz grande",
-    "precio": 2.0,
-    "categoria": "galleta"
-  },
-  {
-    "nombre": "Ritz pequeño",
-    "precio": 1.5,
+    "nombre": "Ritz",
+    "precio": 1.7,
     "categoria": "galleta"
   },
   {
