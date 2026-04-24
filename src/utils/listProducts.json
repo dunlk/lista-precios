@@ -336,6 +336,11 @@
     "categoria": "galleta"
   },
   {
+    "nombre": "Trident",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
     "nombre": "Vizzio(sobre), vizzio(barra)",
     "precio": 2.0,
     "categoria": "gaseosa"
