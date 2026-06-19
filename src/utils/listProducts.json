@@ -96,7 +96,7 @@
   },
   {
     "nombre": "360 grande 450ml",
-    "precio": 3.5,
+    "precio": 3,
     "categoria": "gaseosa"
   },
   {
@@ -226,7 +226,17 @@
     "categoria": "galleta"
   },
   {
+    "nombre": "Piqueo bolsaza",
+    "precio": 4,
+    "categoria": "galleta"
+  },
+  {
     "nombre": "Cuates",
+    "precio": 1.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Chizitos",
     "precio": 1.0,
     "categoria": "galleta"
   },
@@ -281,12 +291,12 @@
     "categoria": "gallleta"
   },
   {
-    "nombre": "Chips costa, Choco donunts, Tentacion, Glasitas, Abas",
+    "nombre": "Chips costa, Choco donuts, Tentacion, Glasitas, Habas",
     "precio": 1.0,
     "categoria": "galleta"
   },
   {
-    "nombre": "Frac, Nik pequeno, Cancun",
+    "nombre": "Frac, Nik pequeño, Cancun",
     "precio": 1.0,
     "categoria": "galleta"
   },
@@ -308,16 +318,6 @@
   {
     "nombre": "Santiago, Agua o Vainilla",
     "precio": 1.5,
-    "categoria": "galleta"
-  },
-  {
-    "nombre": "Mini picaras(sobre)",
-    "precio": 1.5,
-    "categoria": "galleta"
-  },
-  {
-    "nombre": "Picaras, Oreo",
-    "precio": 1.0,
     "categoria": "galleta"
   },
   {
@@ -361,7 +361,12 @@
     "categoria": "galleta"
   },
   {
-    "nombre": "Hall en barra",
+    "nombre": "Halls en barra",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Trident",
     "precio": 1.5,
     "categoria": "galleta"
   },
@@ -378,6 +383,16 @@
   {
     "nombre": "Choko Soda FIELD",
     "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Soda v",
+    "precio": 1.0,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Soda san jorge",
+    "precio": 1.0,
     "categoria": "galleta"
   },
   {
