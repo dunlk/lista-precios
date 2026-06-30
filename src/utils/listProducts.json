@@ -306,12 +306,17 @@
     "categoria": "galleta"
   },
   {
+    "nombre": "Oreo",
+    "precio": 1.0,
+    "categoria": "galleta"
+  },
+  {
     "nombre": "Rellenita",
     "precio": 0.6,
     "categoria": "galleta"
   },
   {
-    "nombre": "Picaras, Oreo",
+    "nombre": "Picaras",
     "precio": 1.5,
     "categoria": "galleta"
   },
