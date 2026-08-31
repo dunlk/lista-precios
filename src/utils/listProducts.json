@@ -176,7 +176,12 @@
     "categoria": "gaseosa"
   },
   {
-    "nombre": "Lays papas",
+    "nombre": "Lays papas (pequeño)",
+    "precio": 1.5,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Lays papas ",
     "precio": 2.0,
     "categoria": "galleta"
   },
@@ -221,8 +226,13 @@
     "categoria": "galleta"
   },
   {
-    "nombre": "Piqueo snax",
+    "nombre": "Piqueo snax picante (rojo)",
     "precio": 2.2,
+    "categoria": "galleta"
+  },
+  {
+    "nombre": "Piqueo snax (azul)",
+    "precio": 2.5,
     "categoria": "galleta"
   },
   {
